@@ -2,5 +2,5 @@
 - Currently learning C.
 
 Contact me:
-  -Discord: .Vikk.
-  -Email: wanmcpegames@outlook.com
+- Discord: .Vikk.
+- Email: wanmcpegames@outlook.com
